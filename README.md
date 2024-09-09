@@ -13,4 +13,4 @@ Java, C++
 |아두이노|온도와 습도 센서 값을 읽어와 라즈베리 파이로 전송하고 클라이언트로부터 받은 RGB LED 제어 신호를 받아 처리합니다.|
 
 ### notion<br>
-https://www.notion.so/RaspberryPi-Server-3ff0f670e7c44c25ac474f031a279bfe
+[https://www.notion.so/RaspberryPi-Server-3ff0f670e7c44c25ac474f031a279bfe](https://stump-goose-4c9.notion.site/RaspberryPi-Server-3ff0f670e7c44c25ac474f031a279bfe?pvs=4)
